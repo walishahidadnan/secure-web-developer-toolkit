@@ -1,4 +1,4 @@
-##🛠️ Awesome Web Developer Utilities & Security Toolkit
+#🛠️ Awesome Web Developer Utilities & Security Toolkit
 A curated collection of high-performance, privacy-first developer tools and resources designed to streamline modern web development workflows.
 
 Security: Privacy First. Tools: 100% Client-Side
